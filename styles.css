@@ -1,0 +1,17 @@
+body{
+    background-color: #ff9999;
+    
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+    list-style: none;
+    font-family:'Dancing Script', cursive;
+    color: #e6196c;
+  }
+ 
